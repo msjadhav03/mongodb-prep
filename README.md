@@ -1,5 +1,7 @@
 # MongoDB
-
+<p>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="Mongodb Logo" height="260">
+</p>
 
 # 1.Introduction
 Open Source, NoSQL database, designed to store and manage large volumes of data across distributed systems. Data Stored in JSON-like objects. MongoDB is well suited for application with constantly changing requirements.
